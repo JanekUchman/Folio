@@ -1,0 +1,3 @@
+Tresure Trail is a game I designed and programmed within a free week I had during University. I later had an artist offer to create art for them to use as a folio piece and spent a bit more time on it implementing the animations.
+
+It's intended to be a mobile puzzle game in which the player has to get all gems, whilst avoiding mimics. To do this the player must cross reference the vertical and horizontal information given to them in a fashion similar to Minesweeper crossed with SuDoku. Upon finding all the gems on one floor the player advances to the next, which has increased difficulty and score potential.
